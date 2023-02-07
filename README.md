@@ -15,3 +15,9 @@ Tailwind CSS for User Interface Design: Tailwind CSS has been used to design and
 Responsive Design: The web application has been designed to be responsive and optimized for various screen sizes and devices.
 
 User-friendly Interface: The user interface has been designed to be simple and user-friendly, allowing users to navigate the application easily.
+
+## Technical Requirements
+This web application is built using React.js, JavaScript, CSS, and HTML. It requires an internet connection to access the Shazam Core API and the World Charts query callback.
+
+## Support
+In case of any technical issues or queries, please feel free to reach out to the support team for assistance.
